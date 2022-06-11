@@ -1,0 +1,8 @@
+Flask
+bs4
+pygame
+easygui
+pip
+matplotlib
+numpy
+pandas
